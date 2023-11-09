@@ -9,6 +9,6 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/emanzat/nordnet-demo.git
+      url: https://github.com/Loyc59/nordnet-demo.git
       ref:
         branch: main
